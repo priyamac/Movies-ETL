@@ -50,8 +50,21 @@ Wiki Movies DataFrame (Deliverables 2)
 </p>
 
 ### Kaggle Data 
-
 [ETL_clean_kaggle_data.ipynb](ETL_clean_kaggle_data.ipynb)
+
+This part aims to extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. The Kaggle metadata DataFrame will merge with the Wikipedia movies DataFrame to create the movies_df DataFrame before merging the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df.
+
+- Similarly to the previous step, first a function was created to extract and transform the Kaggle metadata. 
+- It was then cleaned, by consolidating the redunant data, columns were dropped and renamed, duplicates were removed and the data was formatted and groupes. 
+- Then the Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
+
+<br />
+<p align="center">
+<img src="Resources/movies_with_ratings_df.png" width="800">
+</p>
+<p align="center">
+Movies With Ratings Dataframe (Deliverables 3)
+</p>
 
 ### Movie Database 
 
