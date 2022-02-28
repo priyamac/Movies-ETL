@@ -70,13 +70,13 @@ Movies With Ratings Dataframe (Deliverables 3)
 
 [ETL_create_database.ipynb](ETL_create_database.ipynb)
 
-*This is the part where I struggles to get all the information. I'm still playing around with trying to get the data into the correct data type so it will run properly and I can resubmit. But for now I managed to get the querey resutls.*
+*This is the part where I struggled to get all the information. I'm still playing around with trying to get the data into the correct data type so it will run properly and I can resubmit with the Ratings Query. But for now I managed to get the query resutls.*
 
 <br />
 <p align="center">
-<img src="Resources/movies_query.png" width="800">
+<img src="Resources/movies_query.png" width="500">
 </p>
 <p align="center">
-Movies Query (Deliverables 3)
+Movies Query (Deliverables 4)
 </p>
 
