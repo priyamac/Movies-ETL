@@ -18,13 +18,36 @@ The aim of this paper is to:
 ### Read Data File 
 [ETL_function_test.ipynb](ETL_function_test.ipynb)
 
+The aim of this part of the paper is to create a function that reads in the three data files and creates three separate DataFrames
+
 - The first step was to create an ETL function to read in the three data data files and convert the JSON data and csv files to a Pandas DataFrame.  
 - Next was to make a path to the file directory and create variables for the three files
 - Then Setting the three variables to equal the ETL function reassigns the variables to the variables in the return statement.
 
-### Wikipedia Data 
+<br />
+<p align="center">
+<img src="Resources/wiki_movies_df_dev1.png" width="800">
+</p>
+<p align="center">
+Wiki Movies DataFrame (Devilerables 1)
+</p>
 
+### Wikipedia Data 
 [ETL_clean_wiki_movies.ipynb](ETL_clean_wiki_movies.ipynb)
+
+This part of the paper aims to extract and transform the Wikipedia data so it can be merge with the Kaggle metadata. 
+
+- First was to create a function to filter out TV shows and reorganise the columns
+- The data was then consolidated and the duplicate data removed 
+- The last step was to format the data. 
+
+<br />
+<p align="center">
+<img src="Resources/wiki_movies_df_dev2.png" width="800">
+</p>
+<p align="center">
+Wiki Movies DataFrame (Deliverables 2)
+</p>
 
 ### Kaggle Data 
 
