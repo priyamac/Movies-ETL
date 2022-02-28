@@ -72,5 +72,11 @@ Movies With Ratings Dataframe (Deliverables 3)
 
 *This is the part where I struggles to get all the information. I'm still playing around with trying to get the data into the correct data type so it will run properly and I can resubmit. But for now I managed to get the querey resutls.*
 
----
-## Summary 
+<br />
+<p align="center">
+<img src="Resources/movies_query.png" width="800">
+</p>
+<p align="center">
+Movies Query (Deliverables 3)
+</p>
+
