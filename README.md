@@ -70,7 +70,7 @@ Movies With Ratings Dataframe (Deliverables 3)
 
 [ETL_create_database.ipynb](ETL_create_database.ipynb)
 
-*This is the part where I struggled to get all the information. I'm still playing around with trying to get the data into the correct data type so it will run properly and I can resubmit with the Ratings Query. But for now I managed to get the query resutls.*
+*This is the part where I'm struggling to get the Ratings Query. I'm still playing around with trying to get the data into the correct data type so it will run properly and I can resubmit with the Ratings Query. But for now I did manage to get the Movie Query resutls.*
 
 <br />
 <p align="center">
